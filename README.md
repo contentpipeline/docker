@@ -9,4 +9,6 @@ A compilation of Docker compose and build files we've found helpful.
 1. Search and Relevancy Engines
 1. Analytics and Personalization
 
-The docker files in this repo are ones we've created in relation to our focuse areas.  We hope you find them useful.
+The docker files in this repo are ones we've created in relation to our focus areas.  We hope you find them useful.
+
+
