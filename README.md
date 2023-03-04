@@ -1,7 +1,7 @@
 # ContentPipeline.io Docker Files
 A compilation of Docker compose and build files we've found helpful.  
 
-##Our focus is on:
+## Our focus is on:
 
 1. .NET Core
 1. Composable Experience Mangement
